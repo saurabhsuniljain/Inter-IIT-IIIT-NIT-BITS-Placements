@@ -7,7 +7,8 @@
 1. Trivial (Find all substrings and print maximum)
 2. 
 3. Approach : DP (store for each person till how far he can from the group). 
-dp[i] = min(dp[i+1], next_enemy(i))
+
+    dp[i] = min(dp[i+1], next_enemy(i))
 
     next enemy is the first enemy of i after index i. [Can be found in O(n) time overall - assign all next[i] to n+1, now process each pair of enemy (i,j) if j>i update next[i] = min(next[i],j) else update next[j] = min(next[j],i) ]
 
