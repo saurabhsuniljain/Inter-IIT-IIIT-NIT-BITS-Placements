@@ -18,4 +18,6 @@ Name the file using this format `companyName_collegeName`.
 You can just add questions in a text file and upload it under the appropriate folder. You can add images as well. If folder is not already present you can create new one by following instructions under **Creating new folder**.
 
 ## Types of files to add and formatting.
-Try to avoid such files which can't be displayed in the browser such as .docx files. Add text files, images or .md files with [Markdown Formatting] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+Try to avoid such files which can't be displayed in the browser such as .docx files. 
+
+Add text files, images or .md files with [Markdown Formatting] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
