@@ -35,9 +35,10 @@
 1. Approach : Can be done in O(n) by using two pointers. 
     1. Prepare two arrays to store indices of police and thief. 
     2. Now use two pointers to mark current police and current thief, initialized to 0. 
-    3. a. If thief is in range of police, increment both police and thief pointers and increase count by 1,
-       b. else if thief is on left outside the range increase thief pointer, 
-       c. else increase police pointer. 
+    3. 
+        1. If thief is in range of police, increment both police and thief pointers and increase count by 1,
+        2. else if thief is on left outside the range increase thief pointer, 
+        3. else increase police pointer. 
     4. Repeat till both police and thief pointers are less than X.end() [X can be police or thief vector containing, their indices].
 
     Process each row independently.
