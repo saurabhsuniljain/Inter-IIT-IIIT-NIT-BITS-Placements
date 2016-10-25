@@ -11,3 +11,9 @@ Three sub-sections as follows :
 ### b. Big O notation and OOAD (6 questions, 5 mins)
 ### c. 
 ## 3. Software Engineering Aptitude (45 questions, 45 mins)
+Five sub-sections as follows:
+### a. Maths and Reasoning
+### b. Logical Thinking (7 questions, 6 mins)
+### c. Persistance Thinking
+### d. Data Interpretations
+### e. Programming Ability
